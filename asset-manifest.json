@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/expo-uet/static/css/main.a4cdc195.css",
+    "main.js": "/expo-uet/static/js/main.83570574.js",
+    "static/css/838.d941ee8a.chunk.css": "/expo-uet/static/css/838.d941ee8a.chunk.css",
+    "static/js/838.c4edff04.chunk.js": "/expo-uet/static/js/838.c4edff04.chunk.js",
+    "static/js/713.03773960.chunk.js": "/expo-uet/static/js/713.03773960.chunk.js",
+    "index.html": "/expo-uet/index.html",
+    "main.a4cdc195.css.map": "/expo-uet/static/css/main.a4cdc195.css.map",
+    "main.83570574.js.map": "/expo-uet/static/js/main.83570574.js.map",
+    "838.d941ee8a.chunk.css.map": "/expo-uet/static/css/838.d941ee8a.chunk.css.map",
+    "838.c4edff04.chunk.js.map": "/expo-uet/static/js/838.c4edff04.chunk.js.map",
+    "713.03773960.chunk.js.map": "/expo-uet/static/js/713.03773960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4cdc195.css",
+    "static/js/main.83570574.js"
+  ]
+}
